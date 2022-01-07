@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /bin/
+Disallow: /featured_item/
+Disallow: /blocks/
+Disallow: /featured_item_category/
+Disallow: /elements__trashed/
+Disallow: /?tdb_action=tdb_ajax
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://vimehome.vn/sitemap_index.xml
+Sitemap: http://vimehome.vn/sitemap.xml
